@@ -1,0 +1,18 @@
+.icon{
+    font-size: 2em;
+}
+.container.main{
+    margin-top: 7em;
+}
+#delete{
+    display: inline;
+}
+body{
+    background-color: #545c68;
+}
+#color{
+    color: #f2f4f7;
+}
+#text{
+    text-align: justify; 
+}
